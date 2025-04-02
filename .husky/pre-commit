@@ -1,0 +1,2 @@
+npm run typescript
+npm run lint-staged
