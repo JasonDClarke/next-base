@@ -7,6 +7,6 @@ describe('Home Component', () => {
     render(<Home />);
 
     const h1 = screen.getByRole('heading');
-    expect(h1).toBeInTheDocument()
+    expect(h1).toBeInTheDocument();
   });
 });

@@ -1,9 +1,6 @@
 import React from 'react';
 import { SidebarButton, SidebarProvider } from '../buttons/SidebarButton';
-import {
-  LayoutDashboard,
-  Settings,
-} from 'lucide-react';
+import { LayoutDashboard, Settings } from 'lucide-react';
 import SidebarNavButton from '../buttons/SidebarNavButton';
 
 export const Sidebar = async () => {

@@ -8,8 +8,7 @@ export const metadata: Metadata = {
     template: '%s | App',
     default: 'App',
   },
-  description:
-    'App description.',
+  description: 'App description.',
   applicationName: 'Base application',
 };
 

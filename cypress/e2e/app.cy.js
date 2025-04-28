@@ -4,9 +4,7 @@ describe('splash', () => {
   it('home page should load', () => {
     cy.visit('/');
 
-    cy.get('h1').should(
-      'be.visible'
-    );
+    cy.get('h1').should('be.visible');
 
     cy.injectAxe();
     cy.configureAxe({

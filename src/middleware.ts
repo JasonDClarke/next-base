@@ -1,8 +1,8 @@
 import { NextRequest } from 'next/server';
 
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const middleware = async function middleware(request: NextRequest) {
-    // console.log(request)
+  // console.log(request)
 };
 
 export default middleware;

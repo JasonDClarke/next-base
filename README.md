@@ -17,8 +17,6 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Tech stack
 
-Map rendering library: MapLibre https://maplibre.org/maplibre-gl-js/docs/examples/
-
 React Components:
 
 - ShadCN/Radix components used as base components
